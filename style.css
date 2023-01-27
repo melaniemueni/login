@@ -1,6 +1,7 @@
 
 .main{
     text-align: center;
+    text-transform: capitalize;
 }
 .button1{
         background-color: purple;
